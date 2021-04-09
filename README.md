@@ -16,7 +16,7 @@
 <a href="mailto:mvdias20@gmail.com"><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />
 <a href="https://www.instagram.com/matheus_diaz20/"><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 
-
+<br />
 
 ## ABOUT ME
 - 👨‍💻 Junior Front End Developer
