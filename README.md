@@ -1,3 +1,6 @@
+## ABOUT ME
+- 👨‍💻 Junior Front End Developer
+
 ### Hello World, 👋
 
 
@@ -18,8 +21,7 @@
 
 <br />
 
-## ABOUT ME
-- 👨‍💻 Junior Front End Developer
+
 
 
 ## MY GIT STATS
