@@ -25,7 +25,7 @@
 
 ## MY GIT STATS
 
-<div display="flex"> 
+<div display="flex" align="center"> 
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=matheusdias20&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
 
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=matheusdias20&layout=compact&langs_count=8&theme=react"/>
