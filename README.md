@@ -7,7 +7,7 @@
 ✨ I'm Matheus Vieira and here you can find my developed projects ✨
 
 
-- 💻 I work as a Resident Technician at a Faculty
+- 💻 I work as a IT Help Desk Support at a Faculty
 - 📚 I am currently studying HTML, CSS, JS focused on Front-End and also Python focused on Data Science
 
 - 📍 You can find me too:
