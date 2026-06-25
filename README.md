@@ -23,7 +23,7 @@
 |---|---|
 | 🏢 **Cargo** | Analista de Suporte I |
 | 🏫 **Empresa** | Grupo Ânima Educação |
-| 📍 **Localização** | Santos, SP — Brasil |
+| 📍 **Localização** | Santos, SP - Brasil |
 | 🎯 **Foco atual** | Criação de sistemas, automação e IA |
 
 ---
